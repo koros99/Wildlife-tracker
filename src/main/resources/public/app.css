@@ -1,0 +1,32 @@
+body{
+  background-image: url("/images/back.jpg");
+  background-repeat: none;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.content{
+  background-color: rgba(182, 206, 237, 0.8);
+  margin-top: 2%;
+}
+
+.content-stuff{
+  background-color: rgba(182, 206, 237, 0.8);
+}
+
+.sight-forms{
+  margin: 1%;
+}
+.animals{
+  padding: 2%;
+}
+.animal-form{
+  padding: 2%;
+}
+.card-animals{
+  margin: 2%;
+}
+.sightings-header{
+  text-align: center;
+  text-decoration: underline;
+}
