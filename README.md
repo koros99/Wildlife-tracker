@@ -2,11 +2,11 @@
 Wildlife tracker is a database-supported Java website designed to help wildlife rangers keep track of wild animals in the event of a clearing. Rangers can add endangered and non-endangered animals to the website, and then record each sighting of the animals. Also, they can view a table of all sightings and all animals added to the database.
 
 
-<img src="https://i.ibb.co/DtfCfgV/Screenshot-from-2019-05-02-10-06-13.png" width="100%">
-<img src="https://i.ibb.co/cT4hjQj/Screenshot-from-2019-05-02-10-12-34.png" width="100%">
-<img src="https://i.ibb.co/Cb6XhYW/Screenshot-from-2019-05-02-10-07-01.png" width="100%">
-<img src="https://i.ibb.co/MPBtYQV/Screenshot-from-2019-05-02-10-07-39.png" width="100%">
-<img src="https://i.ibb.co/RhPHKJP/Screenshot-from-2019-05-02-10-07-48.png" width="100%">
+<img src="https://i.ibb.co/DtfCfgV/Screenshot-from-2019-05-02-10-06-13.png" width="70%">
+<img src="https://i.ibb.co/cT4hjQj/Screenshot-from-2019-05-02-10-12-34.png" width="70%">
+<img src="https://i.ibb.co/Cb6XhYW/Screenshot-from-2019-05-02-10-07-01.png" width="70%">
+<img src="https://i.ibb.co/MPBtYQV/Screenshot-from-2019-05-02-10-07-39.png" width="70%">
+<img src="https://i.ibb.co/RhPHKJP/Screenshot-from-2019-05-02-10-07-48.png" width="70%">
 
 
 ## Project Setup
