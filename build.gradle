@@ -3,7 +3,7 @@ plugins {
     id 'application'
 }
 
-group 'com.kilel.virtual-pets'
+group 'com.kilel.wildlifetracker'
 version '1.0-SNAPSHOT'
 mainClassName = "App"
 
